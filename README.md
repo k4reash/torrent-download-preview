@@ -1,5 +1,5 @@
 # torrent-download-preview
-Download Torrent and Preview online
+Download Torrent and Preview online whit nodejs and PHP
 
 # Modify
 
