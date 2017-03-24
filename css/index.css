@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+}
+
+.titulo{
+	color: white;
+	text-align: center;
+}
+
+.formulario{
+	color: white;
+	text-align: center;	
+}
+
+.centrarvideo { 
+	margin-left: auto;
+    margin-right: auto;
+    display: block
+}
