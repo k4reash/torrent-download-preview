@@ -1,11 +1,10 @@
-# torrent-download-preview
-Download Torrent and Preview online whit nodejs and PHP
+# Description
+Download a torrent and preview online with nodejs and PHP
 
-# Install in downloadtorrent
+# Usage
+Install: https://github.com/maxogden/torrent
 
-https://github.com/maxogden/torrent
-
-# Modify
-
--Index.php line 78 
+Edit index.php line 78:
+```
 $directorio = "rootofyourhost/".$dir;
+```
